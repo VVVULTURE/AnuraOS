@@ -15,8 +15,8 @@ importScripts("/libs/filer/filer.min.js");
 
 // Importing mime
 importScripts("/libs/mime/mime.iife.js");
-importScripts("/lib/api/Filesystem.js");
-importScripts("/lib/api/LocalFS.js");
+importScripts("/lib/api/filesystem/Filesystem.js");
+importScripts("/lib/api/filesystem/LocalFS.js");
 importScripts("/libs/idb-keyval/idb-keyval.js");
 // self.fs = new Filer.FileSystem({
 //     name: "anura-mainContext",
