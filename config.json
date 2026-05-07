@@ -19,12 +19,13 @@
 		"/bin/anuractrl.ajs"
 	],
 	"defaultsettings": {
-		"use-sw-cache": false,
-		"applist": ["anura.browser", "anura.settings", "anura.fsapp"],
-		"clampWindows": true,
-		"launcher-keybind": true,
-		"relay-url": "wss://relay.widgetry.org/"
-	},
+    "use-sw-cache": false,
+    "applist": ["anura.browser", "anura.settings", "anura.fsapp"],
+    "clampWindows": true,
+    "launcher-keybind": true,
+    "relay-url": "wss://relay.widgetry.org/",
+    "wisp-url": "wss://relay.widgetry.org/"
+},
 	"x86": {
 		"alpine": {
 			"bzimage": "/x86images/alpine-boot/vmlinuz-virt",
