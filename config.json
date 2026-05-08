@@ -23,8 +23,8 @@
     "applist": ["anura.browser", "anura.settings", "anura.fsapp"],
     "clampWindows": true,
     "launcher-keybind": true,
-    "relay-url": "wss://relay.widgetry.org/",
-    "wisp-url": "wss://relay.widgetry.org/"
+    "relay-url": "wss://anura.pro",
+    "wisp-url": "wss://anura.pro"
 },
 	"x86": {
 		"alpine": {
